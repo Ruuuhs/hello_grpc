@@ -1,6 +1,6 @@
 # hello_grpc
 
-How to Start the sever
+How to start the sever
 ```
 cd cmd/server
 go run main.go
